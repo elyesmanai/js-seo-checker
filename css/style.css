@@ -1,0 +1,75 @@
+.white-box{
+	border: 1px solid black;
+	margin-bottom: 5%;
+}
+
+
+section{
+	margin-bottom: 2em;
+}
+
+fieldset {
+    border: 1px solid #000;
+}
+fieldset>p{
+	margin:3%;
+}
+
+legend{
+	display: inline-block;
+	width: 40%;
+	margin: auto;
+	align-content: center;
+}
+.service{
+	height: 10vh;
+	margin: 0.5em;
+}
+.service>h3{
+	padding-top: 1.3em;
+}
+
+#ser1{
+	background-image: url('../res/img.png');
+}
+#ser2{
+	background-image: url('../res/img.png');
+}
+#ser3{
+	background-image: url('../res/img.png');
+}
+#ser4{
+	background-image: url('../res/img.png');
+}
+#ser5{
+	background-image: url('../res/img.png');
+}
+#ser6{
+	background-image: url('../res/img.png');
+}
+
+#services>div>div>fieldset{
+	border: 1px solid white!important;
+}
+
+#services>div{
+	background-image: url('../res/img.png')
+}
+
+#services>div>div>fieldset{
+	margin-top: 8%;
+	margin-bottom: 10%;
+}
+
+.white>div, .white>div>fieldset{
+	color: white;
+}
+
+
+#contact-btn{
+	width: 50%;
+	height: 4vh;
+	background-color: black;
+	color: white;
+	margin-bottom: 5%;
+}
